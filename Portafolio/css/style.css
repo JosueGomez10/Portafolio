@@ -1,0 +1,24 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar {
+    background-color: #343a40;
+}
+.navbar-brand, .nav-link {
+    color: #ffffff !important;
+}
+.hero {
+    background: url('https://images.pexels.com/photos/16129705/pexels-photo-16129705/free-photo-of-hombre-escritorio-trabajando-sentado.jpeg?auto=compress&cs=tinysrgb&w=600') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+.section {
+    padding: 60px 0;
+}
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
